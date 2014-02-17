@@ -1,4 +1,4 @@
 mustachejs-test
 ===============
 
-Mustache.js examples
+Some basic Mustache.js examples.
